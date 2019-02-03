@@ -1,0 +1,14 @@
+{
+  "name": "katajswithjest",
+  "version": "1.0.0",
+  "description": "Basic project for katas using Js and Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Rubén Tejera Cordero",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
