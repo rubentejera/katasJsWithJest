@@ -12,6 +12,6 @@ To stop Jest:
 
 ```Ctrl + C```
 
-##Matcher of Jest
+## Matcher of Jest
 
 https://jestjs.io/docs/en/expect
