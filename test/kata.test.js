@@ -1,4 +1,4 @@
-const exampleFunction = require('../src/kata');
+import { exampleFunction } from "../src/kata.js";
 
 describe("example function", function () {
     it("should return true with empty string", function () {
